@@ -7,4 +7,7 @@ A comparison of human cardiac gene expression profile in paired samples of right
 
 Research article [here](https://dx.doi.org/10.1152%2Fphysiolgenomics.00137.2011)
 
+PS: Download **E-MEXP-3396.sdrf.txt** from ArrayExpress before using codes
+
 [Download from BioStudies E-MEXP-3396](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MEXP-3396#mt-E-MEXP-3396)
+

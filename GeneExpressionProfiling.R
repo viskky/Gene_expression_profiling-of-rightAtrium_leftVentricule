@@ -13,7 +13,7 @@ sdrf <- read.table("data/E-MEXP-3396.sdrf.txt", header = TRUE, as.is = TRUE,
 library(oligo)
 
 cel_files <- sdrf$Array.Data.File
-rawData <- read.celfiles(filenames=paste0("data/",cel_files))
+rawData <- read.celfiles(filenames=paste0("data/E-MEXP-3396.sdrf.txt",cel_files))
 
 #Normalize data
 eset <- rma(rawData)
